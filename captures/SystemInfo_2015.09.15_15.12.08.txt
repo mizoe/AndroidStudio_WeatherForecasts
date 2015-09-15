@@ -1,0 +1,24 @@
+TASK jp.co.july.tokyo.weatherforecasts id=13
+  ACTIVITY jp.co.july.tokyo.weatherforecasts/.MainActivity a930b048 pid=24369
+    Local FragmentActivity a905d938 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@a905e838
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@a905e838
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{a9068e50 V.E..... ... 0,0-1080,1788}
+        android.widget.LinearLayout{a906abe8 V.E..... ... 0,0-1080,1788}
+          android.view.ViewStub{a906d948 G.E..... ... 0,0-0,0 #102030e}
+          android.widget.FrameLayout{a906dd58 V.E..... ... 0,69-1080,1788}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{a90749e0 V.ED.... ... 0,0-1080,1719 #7f0c003c app:id/decor_content_parent}
+              android.support.v7.internal.widget.ContentFrameLayout{a9077b78 V.ED.... ... 0,154-1080,1719 #1020002 android:id/content}
+                android.widget.RelativeLayout{a909c908 V.E..... ... 0,0-1080,1565}
+                  android.support.v7.widget.AppCompatTextView{a909d0d0 V.ED.... ... 44,44-253,97 #7f0c004d app:id/tv_main}
+              android.support.v7.internal.widget.ActionBarContainer{a9078790 V.ED.... ... 0,0-1080,154 #7f0c003d app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{a907a300 V.E..... ... 0,0-1080,154 #7f0c003e app:id/action_bar}
+                  android.widget.TextView{a9096ef8 V.ED.... ... 44,40-493,114}
+                  android.support.v7.widget.ActionMenuView{a90ac3d0 V.E..... ... 948,0-1080,154}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{a90ad818 VFED..C. ... 0,11-132,143}
+                android.support.v7.internal.widget.ActionBarContextView{a908e8a8 G.E..... ... 0,0-0,0 #7f0c003f app:id/action_context_bar}
